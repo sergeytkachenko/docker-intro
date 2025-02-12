@@ -233,6 +233,10 @@ without any configuration required on the part of the user.
 * ```traceroute 8.8.8.8```
 ---
 
+### Docker **volumes**
+* tmpfs
+---
+
 ### Debugging **build of the Dockerfile**
 * `--progress=plain`
 ---
